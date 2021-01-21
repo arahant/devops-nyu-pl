@@ -1,7 +1,5 @@
 # devops-nyu-pl
-A Vagrant (VM) platform for NYU Programming Languages course
-
-# nyu-cso-vm
+A Vagrant (VM) platform for NYU Programming Languages course.
 
 There is a `Vagrantfile` which creates an instance of `Ubuntu 20.04` distribution, along with the necessary packages to run your Scala and Ocaml programs.
 
